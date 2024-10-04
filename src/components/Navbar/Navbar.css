@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.logo .title {
+  text-decoration: none;
+  color: #5cb85c;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.links .link {
+  text-decoration: none;
+  color: rgb(86, 86, 86);
+  margin-right: 30px;
+}
